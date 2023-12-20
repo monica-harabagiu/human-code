@@ -1,0 +1,38 @@
+# Aprire un pacchetto di figurine
+
+- prendo il pacchetto di figurine nuovo
+- apro il pacchetto
+- tiro fuori le figurine
+- analizzo le figurine
+- apro l'album
+- prendo una figurine
+    - FINCHÈ ci sono figurine
+        - cerco il numero della figurina sul retro della figurina
+            - FINCHÈ non trovo la casella con il numero della figurina
+                - sfoglio le pagine 
+                    - cerco all'interno della pagina la casella corrispondente
+                        - guardo il numero della prima casella in alto a sinistra
+                            - SE ? il numero della casella è maggiore a quello presente sulla figurina
+                                - torno alla pagina precedente
+                            - ALTRIMENTI 
+                                - FINCHÈ ci sono righe
+                                    - guardo da sinistra verso destra il numero associato alle caselle
+                                        - SE ? trovo il numero corrispondente alla figurina
+                                            - SE ? la casella è vuota
+                                                - tolgo la pellicola posteriore
+                                                - incollo la figurina
+                                            - ALTRIMENTI 
+                                                - metto la figurina nel mazzetto a parte
+                                        - ALTRIMENTI 
+                                            - passo alla riga successiva
+
+
+
+
+                    - ALTRIMENTI
+                        - SE ? il numero della figurina è maggiore al numero delle caselle della pagina su cui mi trovo
+                            - vado avanti nel girare le pagine
+        
+                    
+
+    - passo alla figurina successiva
